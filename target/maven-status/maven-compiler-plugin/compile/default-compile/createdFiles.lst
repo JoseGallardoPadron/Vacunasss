@@ -1,0 +1,5 @@
+pe\du\vallegrande\Vaccine\controller\VaccineController.class
+pe\du\vallegrande\Vaccine\model\VaccineModel.class
+pe\du\vallegrande\Vaccine\VaccineApplication.class
+pe\du\vallegrande\Vaccine\repository\VaccineRepository.class
+pe\du\vallegrande\Vaccine\service\VaccineServices.class
